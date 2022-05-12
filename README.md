@@ -1,1 +1,2 @@
 # odin-recipes
+This is The Odin Project's recipes project. I am going to build a basic recipe website. Once I have completed this project I will have demonstrated that I can use the basic elements in HTML.
