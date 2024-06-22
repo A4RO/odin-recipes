@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(41, 41, 41);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: rgb(180, 69, 69);
+    color: rgb(20, 20, 20);
+}
+
+ul, ol, p {
+    background-color: rgba(180, 69, 69, 0.616);
+}
+
+a {
+    color: black;
+}
+
+img {
+    width: auto;
+    height: 225px;
+}
